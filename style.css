@@ -1,0 +1,22 @@
+.centered-text {
+text-align: center;
+}
+
+h1 {
+color: rgb(47, 0, 255);
+font-weight: bold;
+background: hsl(55, 100%, 36%);
+}
+
+h2 {
+color: rgb(9, 9, 28);
+font-weight: bold;
+background: hsl(53, 8%, 81%);
+}
+
+h3 {
+    color: rgb(9, 9, 28);
+    font-weight: initial;
+    
+    }
+
